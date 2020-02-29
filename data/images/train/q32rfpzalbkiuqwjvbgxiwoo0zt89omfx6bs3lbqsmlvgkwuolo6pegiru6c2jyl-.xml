@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>q32rfpzalbkiuqwjvbgxiwoo0zt89omfx6bs3lbqsmlvgkwuolo6pegiru6c2jyl-.jpg</filename>
+	<path>C:\Users\yasem\OneDrive\Masaüstü\data\images\train\q32rfpzalbkiuqwjvbgxiwoo0zt89omfx6bs3lbqsmlvgkwuolo6pegiru6c2jyl-.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1820</width>
+		<height>1214</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>papatya</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>779</xmin>
+			<ymin>549</ymin>
+			<xmax>1422</xmax>
+			<ymax>1127</ymax>
+		</bndbox>
+	</object>
+</annotation>

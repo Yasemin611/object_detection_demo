@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>shutterstock_1106023763_16_9_1560758051-880x495.jpg</filename>
+	<path>C:\Users\yasem\OneDrive\Masaüstü\data\images\train\shutterstock_1106023763_16_9_1560758051-880x495.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>880</width>
+		<height>495</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>papatya</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>56</xmin>
+			<ymin>149</ymin>
+			<xmax>615</xmax>
+			<ymax>310</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>StokSave.jpg</filename>
+	<path>C:\Users\yasem\OneDrive\Masaüstü\data\images\train\StokSave.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>papatya</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>101</xmin>
+			<ymin>107</ymin>
+			<xmax>509</xmax>
+			<ymax>498</ymax>
+		</bndbox>
+	</object>
+</annotation>
